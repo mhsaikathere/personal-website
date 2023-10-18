@@ -1,0 +1,88 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 40px;
+    
+}
+span{
+    color: deeppink;
+    
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-top: 5%;
+    padding-left:2%;
+    
+    
+}
+div img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,hotpink,deeppink);
+    padding: 10px 22px;
+    border-radius: 5px;
+    color: white;
+}
+.header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position:top;
+    
+    
+}
+section{
+    height: 500px;
+    padding-bottom:650px;
+}
+p{
+    color: dimgray;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.sectionon{
+   padding-left:8% ;
+   margin-top: 25%;
+   
+   
+}
+.letest{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.letest h2{
+    text-align: center;
+    margin-top: 10%;
+}
+.work{
+    width:30%;
+    float: left;
+    padding-left: 2%;
+    margin-top: 9%;
+}
+.alin{
+    text-align: center;
+}
+.gmail{
+    text-align: center;
+    padding: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+footer p{
+    text-align: center;
+}
+.images{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    margin: 0;
+}
